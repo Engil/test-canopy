@@ -8,5 +8,5 @@ ttttttTesttt article yaya je suis un lama magicien
 
 ```ocaml
 let i = ["lama"] in
-List.iter (fun a -> print_endline a) i
+List.iter (fun a -> print_endline a) i 
 ```
